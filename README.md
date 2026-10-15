@@ -32,7 +32,7 @@
 
 ## 项目资料
 
-- 本科毕设：[论文 PDF](undergraduate-thesis.pdf)、[一次系统图](undergraduate-primary-system.pdf)、[CAD 工程](undergraduate-design-source.zip)。
+- 本科毕设：[论文 PDF](undergraduate-thesis.pdf)、[电气主接线图](undergraduate-primary-system.pdf)、[主接线图资料](undergraduate-design-source.zip)。
 - 实习项目：[KiCad 原理图、PCB 与生产资料](internship-kicad-engineering.zip)。
 
 - [项目文件索引](EVIDENCE.md)：模型、计算脚本、成果图与实验数据。

@@ -2,7 +2,7 @@
 
 [返回作品集](README.md)
 
-**毕业设计题目：平煤十二矿井下一次系统设计。** 围绕工业场景中的连续供电与设备安全，完成负荷计算、供电结构分析、变压器选型、短路计算、电缆与断路器校验，并形成论文和 CAD 图纸。
+**毕业设计题目：平煤十二矿井下一次系统设计。** 围绕工业场景中的连续供电与设备安全，完成负荷计算、供电结构分析、变压器选型、短路计算、电缆与断路器校验，并形成论文和电气主接线图。
 
 ## 设计任务
 
@@ -37,15 +37,15 @@ flowchart LR
 ## 项目成果
 
 - **设计说明书**：涵盖负荷计算、无功补偿、供电结构、变压器选型、短路分析、电缆与开关设备校验。
-- **CAD 图纸**：整理供配电一次系统结构及设备配置。
+- **电气主接线图**：展示中央变电所、采区变电站与工作面的供电层级、矿用设备和开关配置。
 - **答辩材料**：总结方案选择、计算方法和关键设备配置依据。
 
-## 一次系统图
+## 电气主接线图
 
-![供配电一次系统图](undergraduate-primary-system.png)
+![电气主接线图](undergraduate-primary-system.png)
 
 ## 论文与工程文件
 
 - [毕业设计论文 PDF](undergraduate-thesis.pdf)
-- [一次系统图 PDF](undergraduate-primary-system.pdf)
-- [CAD 工程文件](undergraduate-design-source.zip)
+- [电气主接线图 PDF](undergraduate-primary-system.pdf)
+- [主接线图资料下载](undergraduate-design-source.zip)

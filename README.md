@@ -32,6 +32,9 @@
 
 ## 项目资料
 
+- 本科毕设：[论文 PDF](undergraduate-thesis.pdf)、[一次系统图](undergraduate-primary-system.pdf)、[CAD 工程](undergraduate-design-source.zip)。
+- 实习项目：[KiCad 原理图、PCB 与生产资料](internship-kicad-engineering.zip)。
+
 - [项目文件索引](EVIDENCE.md)：模型、计算脚本、成果图与实验数据。
 - [结果复核脚本](verify_results.py)：仅使用 Python 标准库，核对公开的实验数据与年度汇总指标。
 - 工程代码节选：[5204 模型与计算脚本](5204_selected_source.zip)、[5211 脚本与已保存数值结果](5211_selected_source.zip)、[5208 控制与优化代码](5208_selected_source.zip)。

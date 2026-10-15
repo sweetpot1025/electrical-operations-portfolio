@@ -4,6 +4,8 @@
 
 | 项目 | 文件 | 内容 |
 |---|---|---|
+| 本科毕设 | [论文](undergraduate-thesis.pdf)、[系统图](undergraduate-primary-system.pdf)、[CAD 工程](undergraduate-design-source.zip) | 供配电一次系统设计说明书及工程图纸 |
+| 施耐德实习 | [KiCad 工程包](internship-kicad-engineering.zip) | 原理图、PCB、Gerber、BOM、坐标、装配图与检查记录 |
 | ELEC5204 | [模型与脚本](5204_selected_source.zip) | 基础网络、三相短路、A相接地 Simulink 模型与解析计算 |
 | ELEC5211 | [仿真工程](5211_selected_source.zip) | 潮流、动态响应、故障清除时间、SMIB 脚本与数值结果 |
 | ELEC5208 | [控制与优化代码](5208_selected_source.zip) | 规则式 HEMS、优化式 HEMS、SOCP 动态运行区间 |

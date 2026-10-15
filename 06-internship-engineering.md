@@ -36,3 +36,18 @@
 ## 与运维工作的关联
 
 通过检查记录、版本管理和问题修改流程，形成从发现问题、定位文件、实施修改到复核结果的工作习惯；将测试要求转化为具体步骤和记录表，支持后续调试与验证。
+
+## PCB 与原理图
+
+![传感器节点 PCB 三维视图](internship-pcb-3d.png)
+
+![温湿度传感器节点原理图](internship-schematic.png)
+
+## 工程文件
+
+- [完整 KiCad 工程与制造、装配、检查资料](internship-kicad-engineering.zip)
+- [KiCad 项目](Schneider_TempSensor_Pro.kicad_pro)
+- [原理图源文件](Schneider_TempSensor_Pro.kicad_sch)
+- [PCB 源文件](Schneider_TempSensor_Pro.kicad_pcb)
+
+使用 KiCad 10.0.6 打开项目文件，可查看原理图、PCB 布局与三维结构。

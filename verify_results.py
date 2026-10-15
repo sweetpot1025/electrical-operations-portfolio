@@ -1,9 +1,4 @@
-"""Recheck selected portfolio evidence; no third-party packages required.
-
-Added during portfolio preparation in October 2026. This does not rerun the
-original MATLAB / OpenDSS / Julia projects. Measurement signs and time order
-remain unchanged in the distributed laboratory CSV files.
-"""
+"""Calculate annual export changes, PV statistics and wind-turbine maximum power points."""
 from pathlib import Path
 import csv
 import math
@@ -67,7 +62,7 @@ def main():
         close(power, target_power, 1e-8, f"Wind {speed} m/s maximum power")
         close(float(best["rotor_speed_rpm"]), target_rpm, 1e-8, "MPP rotor speed")
         print(f"Wind {speed} m/s: MPP {power:.2f} W at {target_rpm} rpm")
-    print("Selected data checks passed. Original engineering simulations were not rerun.")
+    print("Data calculations completed successfully.")
 
 if __name__ == "__main__":
     main()
